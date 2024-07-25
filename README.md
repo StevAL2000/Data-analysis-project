@@ -1,2 +1,2 @@
-# Data-analysis-project
+# Data-analysis-projects
 Cold sales analysis automation
