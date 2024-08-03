@@ -1,4 +1,4 @@
-# Data-analysis-projects
+# Data-Analysis-and-Data-Science-Project
 Cold sales analysis automation
 My project is based on an automated analysis model on the sales process.
 
